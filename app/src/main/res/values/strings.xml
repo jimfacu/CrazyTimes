@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CrazyTimes</string>
+    <string name="com.example.myapp.PREFERENCE_FILE_KEY">preference_file_keyy</string>
+    <string name="ListLastSearch">ListLastSearch</string>
+    <string name="Error_De_Conexion">Error De Conexion</string>
+    <string name="Sin_resultados_Ultimas_Busqueda">Todavia no se busco alguna ciudad</string>
+    <string name="Buscador">Busca tu ciudad aquí</string>
+    <string name="Ocurrio_un_Problema">Ocurrio un problema , vuelve a intentar</string>
+
+    <string-array name="Ciudades">
+        <item>524901</item>
+        <item>703448</item>
+        <item>2643743</item>
+        <item>3435910</item>
+        <item>3936456</item>
+        <item>3941584</item>
+        <item>5115985</item>
+        <item>3435910</item>
+    </string-array>
+</resources>
